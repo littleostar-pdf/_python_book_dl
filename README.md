@@ -1,6 +1,10 @@
-# _python_book_dl
+#### _python_book_dl
 
 ---
+
+#### tip
+
+> 建议同一时间, 只下载2或3个文件(part).
 
 #### list
 
